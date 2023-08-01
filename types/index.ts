@@ -14,5 +14,5 @@ export type TweetType = {
     numberOfComments?: number;
     numberOfRetweets?: number;
     numberOfLikes?: number;
-    impression?: number
+    impressions?: number
 }
